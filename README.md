@@ -1,0 +1,31 @@
+Password Complexity Checker
+
+Description
+
+A Python-based tool that evaluates password strength based on:
+
+- Length
+- Uppercase letters
+- Lowercase letters
+- Numbers
+- Special characters
+
+Features
+
+- Detects weak passwords
+- Provides improvement suggestions
+- Rates passwords as:
+  - Weak
+  - Medium
+  - Strong
+  - Very Strong
+
+Technologies Used
+
+- Python
+- Regular Expressions (re)
+
+Run
+
+```bash
+python password_checker.py
